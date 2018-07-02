@@ -1,4 +1,4 @@
-# <p align="center" style="color:#cb3349" > ســــــورس كيبــــر 🍃
+# <p align="center" style="color:#cb3349" > ســــــورس مكسيكو 🍃
 # <p align="center" style="color:#cb3349" > source keePer 🍃
  
 # <p align="center" style="color: #14635c;" > 📣اقــوى ســورس على التليـكرام
@@ -51,4 +51,4 @@
   
   [٠ツقناتــي٠](https://telegram.me/MEXIC_TV) <br>
   
-  [📨تواصل القناه](https://t.me/MEX_BOT) <br>
+  [📨تواصل القناه](https://t.me/MXC_BOT) <br>
