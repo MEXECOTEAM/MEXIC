@@ -12,12 +12,12 @@
 <br> `redis-server`<br>
 <br>🌀¦ اترك الترمنال مفتوح وافتح ترمنال جديد وخلي<br>
 
-<br>` git clone https://github.com/alqaser/KEEPER.git && cd KEEPER && chmod +x keeper && ./keeper `<br>
+<br>` git clone https://github.com/MEXECOTEAM/KEEPER.git && cd KEEPER && chmod +x keeper && ./keeper `<br>
 
 # <p align="center">لتنصيبه بالأكواد 
 ## افتح ترمنال وخلي الكود بعد كل كود انتر
 
--    `git clone https://github.com/alqaser/KEEPER.git` 
+-    `git clone https://github.com/MEXECOTEAM/KEEPER.git` 
 
 -    `cd KEEPER`
 
@@ -40,15 +40,15 @@
 
 
 🛡¦ الي عنده استفسار او مشكله <br>
-🛡¦ : [تواصل مع المطور 🍃](https://telegram.me/llX8Xll)<br>
+🛡¦ : [تواصل مع المطور 🍃](https://telegram.me/VI_P2)<br>
 
 
 # <p align="center"> رابــط  دعــم السورس
 
-  # <p align="center">[📨اضغط هنا للدخول الى المجموعه](https://t.me/keeper_ch)
+  # <p align="center">[📨اضغط هنا للدخول الى المجموعه](https://t.me/MEXIC_TV)
   
-  [📨حسابــي](https://telegram.me/karrar_alqaser) <br>
+  [📨حسابــي](https://telegram.me/VI_P2) <br>
   
-  [٠ツقناتــي٠](https://telegram.me/keeper_ch) <br>
+  [٠ツقناتــي٠](https://telegram.me/MEXIC_TV) <br>
   
-  [📨تواصل القناه](https://t.me/lqlxlqlbot) <br>
+  [📨تواصل القناه](https://t.me/MEX_BOT) <br>
